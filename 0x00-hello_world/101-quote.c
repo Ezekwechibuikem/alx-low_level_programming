@@ -1,4 +1,3 @@
-#include <studio.h>
 #include <unistd.h>
 /**
 * main - this prints exactly the input on it
