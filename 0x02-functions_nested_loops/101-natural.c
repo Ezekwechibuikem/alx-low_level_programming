@@ -7,16 +7,16 @@
 
 int main(void)
 {
-	int i,z = 0;
-
-	while (i < 1024)
-	{
-	if ((i % 3 ==) || (i % 5 == 0)
-	{
-	z += i;
-	}
-	i++;
-	}
-	printf("%d\n", z);
-	return (0);
-}
+        int i,z = 0;
+        
+        while (i < 1024)
+        {
+        if ((i % 3 ==) || (i % 5 == 0)
+        {
+        z += i;
+        }
+        i++;
+        }
+        printf("%d\n", z);
+        return (0);
+} 
