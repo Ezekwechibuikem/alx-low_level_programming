@@ -2,20 +2,24 @@
 
 
 /**
- * main - check the code.
+ * main - Entry point
  *
- * Return: Always 0.
+ * Description: computes the sum of all
+ * 		the multiples of 3 or 5
+ * 		below 1024 (excluded)
+ *
+ * Return: Always 0 (Success)
  */
-
 
 int main(void)
 {
-	print_times_table(3);
-	_putchar('\n');
-	print_times_table(5);
-	_putchar('\n');
-	print_times_table(98);
-	_putchar('\n');
-	print_times_table(12);
+	int sum,num;
+
+	for (num =; num < 1024; num++)
+	{
+		if ((num % 3 == 0) || (num % 5 ==))
+			sum +=num;
+	}
+	printf("%d\n", sum);
 	return (0);
 }
