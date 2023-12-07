@@ -1,6 +1,6 @@
-###C - Doubly linked lists
+### C - Doubly linked lists
 
-#This project covers the below list objectives
+# This project covers the below list objectives
 
 - What is a doubly linked list'
 - How to use doubly linked lists'
