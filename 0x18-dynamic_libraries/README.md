@@ -1,6 +1,6 @@
 ## C - Dynamic libraries
 
-** This project covers the following below listed topics**
+*This project covers the following below listed topics*
 
 - What is a dynamic library, how does it work, how to create one, and how to use it
 - What is the environment variable $LD_LIBRARY_PATH and how to use it
